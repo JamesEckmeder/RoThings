@@ -1,1 +1,1 @@
-test = {false, false}, starter = {false, false}
+test=false,false|starter=false,false
