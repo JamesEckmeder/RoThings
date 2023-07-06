@@ -1,10 +1,1 @@
-{
-  test = { -- name
-    false, -- shows up as an existing code
-    false -- redeemable
-  },
-  starter = {
-    false,
-    false
-  }
-}
+test = {false, false}, starter = {false, false}
