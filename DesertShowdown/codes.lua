@@ -1,1 +1,12 @@
-test=false,false|starter=false,false
+{
+  "test" = 
+  {
+    Enabled = true,
+    Redeemable = true
+  },
+  "starter" = 
+  {
+    Enabled = true,
+    Redeemable = false
+  }
+}
