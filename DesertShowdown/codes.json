@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "test",
+        "Enabled": true,
+        "Redeemable": true
+    },
+    {
+        "Name": "Starter",
+        "Enabled": true,
+        "Redeemable": false
+    }
+]
